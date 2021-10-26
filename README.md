@@ -9,6 +9,11 @@ You can see my article on Medium.
 The source code and generated images are released under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</br>
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
 
+## Google Colabs
+* [SpookyGAN Image Creation with StyleCLIP](https://colab.research.google.com/github/robgon-art/SpookyGAN/blob/main/1_SpookyGAN_Image_Creation_with_StyleCLIP.ipynb)
+* [SpookyGAN Image Modification VQGAN and CLIP](https://colab.research.google.com/github/robgon-art/SpookyGAN/blob/main/2_SpookyGAN_Image_Modification_VQGAN_and_CLIP.ipynb)
+* [SpookyGAN Movie Creation with VQGAN_ and CLIP](https://colab.research.google.com/github/robgon-art/SpookyGAN/blob/main/3_SpookyGAN_Movie_Creation_with_VQGAN_and_CLIP.ipynb)
+
 ## Acknowledgements
 * CLIP by A. Radford, et al., [Learning Transferable Visual Models From Natural Language Supervision](https://medium.com/r/?url=https%3A%2F%2Fcdn.openai.com%2Fpapers%2FLearning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf)</br>
 * StyleGAN 2 by T. Karras, S. Laine, M. Aittala, J. Hellsten, J. Lehtinen, and T. Aila, [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf)</br>
